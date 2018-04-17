@@ -1,0 +1,40 @@
+<div id="timeline">
+  <ul class="timeline__list">
+    {% for atom in site.data.universe %}
+    <li class="timeline-list__item">
+      <div>
+        {% if forloop.index < 3 %}
+          <div class="timeline-item__left-column timeline-item__image ga" style="background-image:url('./assets/images/timeline/{{ atom.image }}')" data-cat="Timeline Image" data-act="{{ atom.image }}" data-lab="{{ atom.image }}"></div>
+        {% else %}
+          <div class="timeline-item__left-column timeline-item__image ga lazyload" data-src="./assets/images/timeline/{{ atom.image }}" data-cat="Timeline Image" data-act="{{ atom.image }}" data-lab="{{ atom.image }}"></div>
+        {% endif %}
+        <div class="timeline-item__right-column">
+          <div class="timeline-item__content">
+            <h2 class="list-item__name ga" data-cat="Timeline Heading" data-act="{{ atom.name }}" data-lab="{{ atom.name }}">{{ atom.name }}</h2>
+            {% if atom.subtitle %}
+              <p class="list-item__subtitle">{{ atom.subtitle }}</p>
+            {% endif %}
+            <p class="list-item__plot">{{ atom.plot }}</p>
+
+            {% if atom.bond %}
+              <ul class="list-item__bond-list">
+                {% for bond in atom.bond %}
+                  <li class="bond-list__item">{{ bond.electron }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+
+            <a href="https://github.com/dutiyesh/marvel-cinematic-universe-tldr/blob/master/_data/universe.yml" class="btn btn-secondary list-item__add-btn btn--github ga" data-cat="Contribute" data-act="Add Github" data-lab="Add Github">Add</a>
+          </div>
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <div class="navigation__control">
+    <div id="prevBtn" class="navigation-control__btn navigation-control-btn--prev ga" data-cat="Navigation Controls" data-act="Previous" data-lab="Previous"></div>
+    <div id="nextBtn" class="navigation-control__btn navigation-control-btn--next ga" data-cat="Navigation Controls" data-act="Next" data-lab="Next"></div>
+  </div>
+
+</div>

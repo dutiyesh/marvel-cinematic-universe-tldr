@@ -1,0 +1,21 @@
+/**
+ * A function to get color from color map array to be used in location screen.
+ *
+ * @parameters:
+ * $color: Color name
+ * $opacity: Color opacity
+ */
+@function color($color, $opacity: '') {
+	@if map-has-key($color-map, $color) {
+		@if $opacity != '' {
+			@return rgba(map-get($color-map, $color), $opacity);
+		}
+		@else {
+			@return map-get($color-map, $color);
+		}
+	}
+	@else {
+		@warn 'Unfortunately, no value could be retrieved for `#{$color}`. Please make sure it is defined in `$color-map` map.';
+		@return false;
+	}
+}

@@ -1,0 +1,21 @@
+$baseurl: '../../assets/icons';
+
+@mixin icon-common-property {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@mixin github-15b89a {
+  background-image: url('#{$baseurl}/github-15b89a.svg');
+  @include icon-common-property;
+}
+
+@mixin github-fff {
+  background-image: url('#{$baseurl}/github-fff.svg');
+  @include icon-common-property;
+}
+
+@mixin arrow-down-fff {
+  background-image: url('#{$baseurl}/arrow-down-fff.svg');
+  @include icon-common-property;
+}

@@ -1,0 +1,321 @@
+- name: Captain America. The First Avenger
+  release-year: 2011
+  director: Joe Johnston
+  plot: Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.
+  image: captain-america-the-first-avenger.jpg
+  bond:
+    - electron: After being "asleep" for nearly 70 years, Fury approaches Rogers, proposing a mission with worldwide ramifications.
+
+- name: Agent Carter
+  subtitle: Season 1 - 2
+  release-year: 2015
+  director: 
+  plot: In 1946, Peggy Carter is relegated to secretarial duties in the Strategic Scientific Reserve (SSR). When Howard Stark is accused of treason, he secretly recruits Peggy to clear his name with the help of his butler, Edwin Jarvis.
+  image: agent-carter-season-1-2-part-1.jpg
+
+- name: Iron Man
+  release-year: 2008
+  director: Jon Favreau
+  plot: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
+  image: iron-man-1.jpg
+  bond:
+    - electron: Stark was greeted by a visitor, Nick Fury, director of S.H.I.E.L.D., and assured him that he was not the only 'superhero' in the world, intending to discuss the Avengers Initiative with Stark.
+
+- name: Iron Man 2
+  release-year: 2010
+  director: Jon Favreau
+  plot: With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.
+  image: iron-man-2.jpg
+  bond:
+    - electron: Phil Coulson drives towards a crater in the New Mexico desert, where a large hammer has crashed, and reports the discovery to his superiors.
+
+- name: The Incredible Hulk
+  release-year: 2008
+  director: Louis Leterrier
+  plot: Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into, whenever he loses his temper.
+  image: the-incredible-hulk.jpg
+  bond:
+    - electron: Tony Stark approaches Thaddeus Ross, who is drowning his sorrows at a bar, and tells him a team is being put together.
+
+- name: Thor
+  release-year: 2011
+  director: Kenneth Branagh
+  plot: The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.
+  image: thor-1.jpg
+  bond:
+    - electron: Nick Fury shows Erik Selvig the Tesseract in a briefcase, which he says could be a source of unlimited power. Loki appears in a reflection, invisible to Selvig and Fury, and says "Well, I guess that's worth a look."
+  
+- name: The Avengers
+  release-year: 2012
+  director: Joss Whedon
+  plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+  image: the-avengers-1.jpg
+  bond:
+    - electron: Informing master of Loki's defeat before noting that challenging the Avengers would be courting Death, prompting Thanos to smile at the prospect.
+
+- name: Iron Man 3
+  release-year: 2013
+  director: Shane Black
+  plot: When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.
+  image: iron-man-3.jpg
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 1 (E1 - E7)
+  release-year: 2013 -
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-1-part-1.jpg
+
+- name: Thor. The Dark World
+  release-year: 2013
+  director: Alan Taylor
+  plot: When Dr. Jane Foster gets cursed with a powerful entity known as the Aether, Thor is heralded of the cosmic event known as the Convergence and the genocidal Dark Elves.
+  image: thor-the-dark-world.jpg
+  bond:
+    - electron: Warriors Sif and Volstagg take the Aether to the Collector, whose appearance is a tease for Guardians of the Galaxy, in order to keep it safe, yet separate from the Tesseract. 
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 1 (E8 - E16)
+  release-year: 2013 -
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-1-part-2.jpg
+
+- name: Captain America. The Winter Soldier
+  release-year: 2014
+  director: Anthony Russo, Joe Russo
+  plot: As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history; an assassin known as the Winter Soldier.
+  image: captain-america-the-winter-soldier.jpg
+  bond:
+   - electron: Wolfgang von Strucker makes his way through a facility where the Scepter is being studied and approaches a pair of holding cells containing Quicksilver and Scarlet Witch, foreshadowing Avengers Age of Ultron.
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 1 (E17 - E22)
+  release-year: 2013 -
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-1-part-3.jpg
+
+- name: Guardians of the Galaxy
+  release-year: 2014
+  director: James Gunn
+  plot: A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+  image: guardians-of-the-galaxy.jpg
+  bond:
+    - electron: Taneleer Tivan sits in the ruins of his museum as Cosmo walks over and licks his face, prompting Howard the Duck to declare that the act was "gross".
+
+- name: Guardians of the Galaxy Vol. 2
+  release-year: 2017
+  director: James Gunn
+  plot: The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.
+  image: guardians-of-the-galaxy-vol-2.jpg
+  bond:
+    - electron: Stakar Ogord, inspired by Yondu Udonta's sacrifice, reassembles his old team.
+    - electron: Ayesha tells her chambermaid she is creating a being capable of destroying the Guardians of the Galaxy, deciding to call her creation "Adam".
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 2 (E1 - E10)
+  release-year: 2014 - 2015
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-2-part-1.jpg
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 2 (E11 - E19)
+  release-year: 2014 - 2015
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-2-part-2.jpg
+
+- name: Avengers. Age of Ultron
+  release-year: 2015
+  director: Joss Whedon
+  plot: When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.
+  image: avengers-age-of-ultron.jpg
+  bond:
+    - electron: Growing tired with the lack of progress in his crusade to obtain the Infinity Stones, Thanos dons an Infinity Gauntlet and vows to seek out the Stones personally.
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 2 (E20 - E22)
+  release-year: 2014 - 2015
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-2-part-3.jpg
+
+- name: WHiH Newsfront
+  subtitle: Web series
+  release-year: 2015
+  director: 
+  plot: A series of news bulletins on events within the Marvel Cinematic Universe, as presented by reporter Christine Everhart.
+  image: whih-newsfront-part-1.jpg
+  bond:
+    - electron: Christine Everhart talks about next week's news, where they are going to discuss the Avengers at the Battle of Sokovia and the release of former criminal Scott Lang.
+    - electron: Christine Everhart takes an interview of Scott Lang via satellite to his prison.
+
+- name: Ant-Man
+  release-year: 2015
+  director: Peyton Reed
+  plot: Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.
+  image: ant-man-1.jpg
+  bond:
+    - electron: Captain America and Falcon have found Bucky Barnes. Unable to contact Tony Stark "because of the Accords," Wilson states that "he knows a guy".
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 3 (E1 - E10)
+  release-year: 2015 - 2016
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-3-part-1.jpg
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 3 (E11 - E14)
+  release-year: 2015 - 2016
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-3-part-2.jpg
+
+- name: WHiH Newsfront
+  release-year: April 2016
+  director: 
+  plot: A series of news bulletins on events within the Marvel Cinematic Universe, as presented by reporter Christine Everhart.
+  image: whih-newsfront-part-2.jpg
+  bond:
+    - electron: Christine Everhart discuss with political correspondent Will Adams about the collateral damages caused by the Avengers.
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 3 (E15 - E16)
+  release-year: 2015 - 2016
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-3-part-3.jpg
+
+- name: WHiH Newsfront
+  release-year: April 2016
+  director: 
+  plot: A series of news bulletins on events within the Marvel Cinematic Universe, as presented by reporter Christine Everhart.
+  image: whih-newsfront-part-3.jpg
+  bond:
+    - electron: Christine Everhart and political correspondent Will Adams debate about the Avengers and the role that the White House and President Ellis should play.
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 3 (E17 - E18)
+  release-year: 2015 - 2016
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-3-part-4.jpg
+
+- name: WHiH Newsfront
+  release-year: April 2016
+  director: 
+  plot: A series of news bulletins on events within the Marvel Cinematic Universe, as presented by reporter Christine Everhart.
+  image: whih-newsfront-part-4.jpg
+  bond:
+    - electron: President Ellis discusses his nomination of Thaddeus Ross for Secretary of State.
+    - electron: Newsfront reports LIVE on the scene in Lagos after a devastating incident.
+
+- name: Doctor Strange
+  subtitle: (beginning)
+  release-year: 2016
+  director: Scott Derrickson
+  plot: While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.
+  image: doctor-strange-1-part-1.jpg
+  bond:
+    - electron:  Doctor Strange asks Thor why he brought Loki to Earth. Discovering that they are searching for Odin, Strange offers to help on the condition that the three return to Asgard once their mission is completed.
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 3 (E19)
+  release-year: 2015 - 2016
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-3-part-5.jpg
+
+- name: Captain America. Civil War
+  release-year: 2016
+  director: Anthony Russo, Joe Russo
+  plot: Political involvement in the Avengers' activities causes a rift between Captain America and Iron Man.
+  image: captain-america-civil-war.jpg
+  bond:
+    - electron: T'Challa grants Steve Rogers and Bucky Barnes asylum in Wakanda until a cure for Barnes' mental programming can be found.
+    - electron: Peter Parker inspects his Web-Shooters, a gift from Mr. Tony Stark, and watches as they emit a spider-shaped symbol.
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 3 (E20 - E22)
+  release-year: 2015 - 2016
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-3-part-6.jpg
+
+- name: Spider-Man. Homecoming
+  release-year: 2017
+  director: Jon Watts
+  plot: Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.
+  image: spider-man-homecoming.jpg
+  bond:
+    - electron: Adrian Toomes encounters Mac Gargan in prison and learns that he has "friends" looking to kill Spider-Man. The character, Mac Gargan, is one from the comics and eventually becomes Venom.
+
+- name: Agents of S.H.I.E.L.D. Slingshot
+  subtitle: Season 1
+  release-year: 2016
+  director: 
+  plot: Following Inhuman Yo-Yo Rodriguez also known as 'Slingshot' on a personal Mission against time.
+  image: agents-of-shield-slingshot.jpg
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 4 (E1 - E4)
+  release-year: 2016 - 2017
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-4-part-1.jpg
+
+- name: Doctor Strange
+  subtitle: (ending)
+  release-year: 2016
+  director: Scott Derrickson
+  plot: While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.
+  image: doctor-strange-1-part-2.jpg
+  bond:
+    - electron: Karl Mordo confronts Jonathan Pangborn and strips him of his magic, stating that he is doing so because there are "too many sorcerers".
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 4 (E5 - E15)
+  release-year: 2016 - 2017
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-4-part-2.jpg
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 4 (E16 - E22)
+  release-year: 2016 - 2017
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-4-part-3.jpg
+
+- name: Inhumans
+  subtitle: Season 1
+  release-year: 2017
+  director: 
+  plot: An isolated community of superhumans fight to protect themselves.
+  image: inhumans-season-1.jpg
+
+- name: Thor. Ragnarok
+  release-year: 2017
+  director: Taika Waititi
+  plot: Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.
+  image: thor-ragnarok.jpg
+  bond:
+    - electron: As Thor and Loki pilot the refugee Asgardians through space; a giant ship appears in front of them, likely belonging to Thanos.
+
+- name: Agents of S.H.I.E.L.D.
+  subtitle: Season 5 (E1 - E10)
+  release-year: 2017
+  director: 
+  plot: The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.
+  image: agents-of-shield-season-5-part-1.jpg
+
+- name: Black Panther
+  release-year: 2018
+  director: Ryan Coogler
+  plot: T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his claim is challenged by a vengeful outsider who was a childhood victim of T'Challa's father's mistake.
+  image: black-panther.jpg
+  bond:
+    - electron: Shuri visits a convalescing Bucky Barnes, who has awoke from his cryogenic state, and tells him he still has much to learn. 

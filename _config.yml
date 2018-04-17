@@ -1,0 +1,12 @@
+title: Marvel Cinematic Universe - TL;DR
+email: dutiyesh@gmail.com
+description: >-
+  This is a Timeline of events as depicted or mentioned in the Marvel Cinematic Universe.
+keywords: Marvel Cinematic Universe - TL;DR,marvel,Timeline,Marvel Cinematic Universe
+baseurl: "/marvel-cinematic-universe-tldr"
+url: "https://dutiyesh.github.io"
+github_username: dutiyesh
+google_analytics: UA-117756598-1
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,36 @@
+.btn {
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 8px 16px;
+  font-size: 14px;
+  line-height: 1.5;
+  border-radius: 3px;
+  transition: color .1s ease-in-out, background-color .1s ease-in-out, border-color .1s ease-in-out, background-image .1s ease-in-out;
+  text-decoration: none;
+  cursor: pointer;
+
+  &:active {
+    transform: scale(.98);
+  }
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.btn-secondary {
+  font-weight: 500;
+  color: color(light-sea-green);
+  border-color: color(mountain-meadow);
+
+  &:hover {
+    color: color(white);
+    background-color: color(light-sea-green);
+    border-color: color(mountain-meadow);
+  }
+}
